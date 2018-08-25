@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pump.jpg
+image: images/pump.png
 title: Peristaltic Pump
 permalink: projects/pump
 # All dates must be YYYY-MM-DD format!
