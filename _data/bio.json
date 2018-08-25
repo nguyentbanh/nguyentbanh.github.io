@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nguyen Banh",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://nguyentbanh.github.io/images/IMG_0509 2.jpg",
+    "email": "banh@hawaii.edu",
+    "phone": "",
+    "website": "https://nguyentbanh.github.io",
+    "summary": "I am studying for a B.S. in Computer Enginerring in the Department of Electrical Enginerring at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "nguyentbanh",
+        "url": "http://github.com/nguyentbanh"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "banhtuannguyen@gmail.com",
+        "url": "https://www.linkedin.com/in/nguyen-banh-5042a0115/e"
       }
     ]
   },
@@ -46,12 +36,17 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "software engineering",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "cyber security",
       "keywords": [
       ]
     }
