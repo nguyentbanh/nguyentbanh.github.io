@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2018-08-24 at 10.45.46 PM.png
+image: images/project2.png
 title: Underwater Robot 
 permalink: projects/underwaterrobot
 # All dates must be YYYY-MM-DD format!
