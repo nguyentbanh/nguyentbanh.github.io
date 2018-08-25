@@ -17,3 +17,5 @@ summary: My team developed a Peristaltic Pump machine for the microchemistry lab
 Peristaltic Pump machine pumps fluid without contaminating the fluid itself, mainly used in pharmaceutical applications and the food industry, prevents backflow, gentle - ideal for use on cells and proteins, and precise dispensing.
 
 The purpose of the project is beneficial the biology department since the cost to built is less than the cost of buying.
+
+This project I gained experience with 3D printer design software Autodesk, custom circuits software Eagle, Aduino, data collection, and data analysis.
