@@ -5,7 +5,7 @@ image: images/pump.png
 title: Peristaltic Pump
 permalink: projects/pump
 # All dates must be YYYY-MM-DD format!
-date: 2016-04-01
+date: 2016-01-07
 labels:
   - Peristaltic Pump
   - Arduino
