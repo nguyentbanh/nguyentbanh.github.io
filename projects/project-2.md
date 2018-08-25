@@ -14,7 +14,7 @@ labels:
 summary: A underwater robot was created by our team to participate in the Mate ROV Competition.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/">
+<img class="ui medium right floated rounded image" src="../images/Screen Shot 2018-08-24 at 10.46.08 PM.png">
 
 Our robot has to be designed under limit of weight and size. The robot has to complete couple different tasks under the limited time. 
 
