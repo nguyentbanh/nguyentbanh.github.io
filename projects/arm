@@ -1,3 +1,6 @@
+ ---
+ layout: project
+ type: project
  image: images/arm.png
  title: Master and Slave Robot Arm
  permalink: projects/arm
