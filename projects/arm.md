@@ -1,17 +1,3 @@
----
-layout: project
-type: project
-image: images/pump.png
-title: Peristaltic Pump
-permalink: projects/pump
-# All dates must be YYYY-MM-DD format!
-date: 2016-01-07
-labels:
-  - Peristaltic Pump
-  - Arduino
-  - C++
-summary: My team developed a Peristaltic Pump machine for the microchemistry lab at Kapiolani Community College, at the end of semester we have a working machine for the lab.
---- 
  ---
  layout: project
  type: project
