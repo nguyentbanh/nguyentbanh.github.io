@@ -33,5 +33,5 @@ This project I gained experience with 3D printer design software Autodesk, custo
    <img class="ui image" src="../images/pump3.png">
    I use Eagle program to design the schematic.
    <img class="ui image" src="../images/pump4.png"> 
-   
+   This is the prototype for the project.
  </div>
