@@ -1,33 +1,18 @@
 ---
 layout: project
 type: project
-image: images/pump.png
-title: Peristaltic Pump
-permalink: projects/pump
+image: images/arm.png
+title: Master and Slave Robot Arm
+permalink: projects/arm
 # All dates must be YYYY-MM-DD format!
-date: 2016-01-07
+date: 2018-04-01
 labels:
-  - Peristaltic Pump
+  - Robotics
   - Arduino
   - C++
-summary: My team developed a Peristaltic Pump machine for the microchemistry lab at Kapiolani Community College, at the end of semester we have a working machine for the lab.
+  - Servo motors
+summary: This is my own project which is making robot arm at home.
 --- 
- ---
- layout: project
- type: project
- image: images/arm.png
- title: Master and Slave Robot Arm
- permalink: projects/arm
- date: 2018
- # All dates must be YYYY-MM-DD format!
- date: 2018-04-01
- labels:
-   - Robotics
-   - Arduino
-   - C++
-   - Servo motors
- summary: This is my own project which is making robot arm at home.
- ---
  
  <div class="ui small rounded images">
    <img class="ui image" src="../images/arm1.png">
