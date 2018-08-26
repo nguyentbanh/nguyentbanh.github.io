@@ -23,6 +23,7 @@ This project I gained experience with 3D printer design software Autodesk, custo
 
 <div class="ui small rounded images">
    <img class="ui image" src="../images/pump1.png">
+   
    This is the 3D model I did for the machine.
    <img class="ui image" src="../images/pump2.png"> 
    I and another person in the group collecting data for a correct amount.
@@ -30,5 +31,7 @@ This project I gained experience with 3D printer design software Autodesk, custo
  
  <div class="ui small rounded images">
    <img class="ui image" src="../images/pump3.png">
+   I use Eagle program to design the schematic.
    <img class="ui image" src="../images/pump4.png"> 
+   
  </div>
