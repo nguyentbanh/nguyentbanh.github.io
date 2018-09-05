@@ -23,6 +23,6 @@ summary: This is my own project which is making robot arm at home.
  
  I learned a lot from this project since I have to do everything from designing, wiring, programming. I tried both Raspberry pi 3B and Arduino to make the arm. Although both of them was worked, I ended up using the Arduino for the prototype and final product.
 
- You can see my prototype video at (https://youtu.be/BlIY0Qh8HyA).
+ You can see my prototype video at <a href="https://youtu.be/BlIY0Qh8HyA">here</a>.
  
  
