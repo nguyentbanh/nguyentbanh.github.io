@@ -80,8 +80,18 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering  (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-01-07",
+      "startDate": "2018-01-07",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Liberal arts",
+      "studyType": "A.S.",
+      "startDate": "2013-01-07",
+      "endDate": "2017-05-15",
       "gpa": "",
       "courses": [
       ]
@@ -115,7 +125,7 @@
       "position": "Nail technician",
       "website": "",
       "startDate": "2013-07-01",
-      "endDate": "present",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
       ]
