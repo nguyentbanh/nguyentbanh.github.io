@@ -10,8 +10,6 @@ labels:
   - UI Frameworks
 ---
 
-<h1>Building vs. Resembling</h1> 
-
 <h2>It started as a dream!</h2>
 <img src="/images/win98.png" width="100px" style="float: left; margin-right: 10px"/>
 <p>Back in the day when I thought that HTML is the only language I need to learn to build the web. The more you study, the more you know that what you know is so little. In 1998, I saw the first computer in my life. From that day, I fell in love with it. I remembered it was running Windows 10. Oops! It ran windows 98 and used the phone line to connect to the internet. That is my dream began. I was self-learning how to make websites but not make something beautiful. I finally found myself giving up to make an excellent site since it takes so much time to deal with CSS classes. </p>
