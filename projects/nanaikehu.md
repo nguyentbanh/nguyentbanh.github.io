@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project2.png
+image: images/nanaikehu.png
 title: NanaIkehu(Visualize Energy)
 permalink: projects/nanaikehu
 # All dates must be YYYY-MM-DD format!
