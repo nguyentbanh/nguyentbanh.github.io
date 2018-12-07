@@ -28,14 +28,14 @@ The purpose of the project is beneficial to the biology department since the cos
  
  
 In the end, we were pleased with our results. Our data shows that our dispensing volumes are precise with a minimal percent error, considering this is our prototype. Currently, we are working on a newer model, where we have transitioned to using a stepper motor that will give us a much accurate and precise result with dispensing and speed.
- <img class="ui medium right floated rounded image" src="../images/pump2.png">
+ <img class="ui medium left floated rounded image" src="../images/pump2.png">
  I and another person in the group collecting data for a correct amount.
  
 
 This project I gained experience with 3D printer design software Autodesk, custom circuits software Eagle, Arduino, data collection, and data analysis.
 
 
-<img class="ui medium right floated rounded image" src="../images/pump3.png">
+<img class="ui medium left floated rounded image" src="../images/pump3.png">
 I use Eagle program to design the schematic.
 
 
