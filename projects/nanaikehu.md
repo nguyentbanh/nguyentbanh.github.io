@@ -30,4 +30,4 @@ From this application I used software engineering practices such as version cont
 
 As a team, we are proud of the fact that our application works the way we want to. We see value in providing tighter integration with other data sources and plan to add REST APIs. These APIs will allow other teams to get data from our application transparently as well as allow users to import data in real time using HTTP. We also would like to develop more historical tracking and metrics to further insights.
 
-You can see more at the Github (http://https://github.com/nanaikehu/Nana-Ikehu/) .
+You can see more at the [Github](http://https://github.com/nanaikehu/Nana-Ikehu/) .
