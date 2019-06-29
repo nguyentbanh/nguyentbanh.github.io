@@ -6,7 +6,7 @@
     "email": "banh@hawaii.edu",
     "phone": "",
     "website": "https://nguyentbanh.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "I graduated with a B.S. in Computer Engineering in the Department of Electrical Engineering at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "96815",
@@ -78,10 +78,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering  (expected Spring, 2019)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2018-01-07",
-      "endDate": "Present",
+      "endDate": "2019-05-15",
       "gpa": "",
       "courses": [
       ]
