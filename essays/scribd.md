@@ -9,9 +9,7 @@ labels:
   - Books
 ---
 
-# Why you should use Scribd to get $73.91 free money
-
-## What Scribd include
+## What [Scribd](https://www.scribd.com/g/8jcgre) include
  - Books 
  - Audiobooks
  - Snapshots
