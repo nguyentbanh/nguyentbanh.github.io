@@ -35,7 +35,7 @@ They call it [Scribd peaks](https://www.scribd.com/account-settings/bundles). It
 ## Sum them up and the total is **$83.90**
 With Scribd subscription is **$9.99** for all of that. So $83.90 - $9.99 = $73.91 free money.
 
-They offer 30 days trial but you will get 60 days trail if you join by this [link](https://www.scribd.com/g/8jcgre)
+They offer 30 days trial but you will get 60 days trial if you join by this [link](https://www.scribd.com/g/8jcgre)
 
 Thanks
     
