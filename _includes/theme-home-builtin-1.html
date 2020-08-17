@@ -8,7 +8,9 @@
 <div style="height: 100%" class="ui equal width three column center aligned grid">
     <div class="stretched row">
         
-      <div style="background-image: url({{ site.data.bio.basics.picture }}); background-repeat: no-repeat; background-size:100%, 100%" class="ui black centered column image"></div>
+      <div class="black column">
+        <img class="ui centered image" src="/images/IMG_0509.JPG">
+        </div>
         
         <div class="middle aligned column">
             <h1 class="ui header">
@@ -16,7 +18,11 @@
                 <div class="sub header">{{ site.data.bio.basics.label }}</div>
             </h1>
             <h4 style="margin-bottom:100px; margin-top: 100px" class="ui header">{{ site.data.bio.basics.summary }}</h4>
-            
+             <p>Interests:
+      {% for interest in site.data.bio.interests %}
+        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+      {% endfor %}
+    </p>
         </div>
 
         <div class="black column">
